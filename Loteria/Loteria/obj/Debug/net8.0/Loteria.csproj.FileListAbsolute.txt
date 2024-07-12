@@ -1,0 +1,14 @@
+C:\Users\irvin\source\repos\Loteria\Loteria\bin\Debug\net8.0\Loteria.exe
+C:\Users\irvin\source\repos\Loteria\Loteria\bin\Debug\net8.0\Loteria.deps.json
+C:\Users\irvin\source\repos\Loteria\Loteria\bin\Debug\net8.0\Loteria.runtimeconfig.json
+C:\Users\irvin\source\repos\Loteria\Loteria\bin\Debug\net8.0\Loteria.dll
+C:\Users\irvin\source\repos\Loteria\Loteria\bin\Debug\net8.0\Loteria.pdb
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfoInputs.cache
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfo.cs
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.dll
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\refint\Loteria.dll
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.pdb
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\Loteria.genruntimeconfig.cache
+C:\Users\irvin\source\repos\Loteria\Loteria\obj\Debug\net8.0\ref\Loteria.dll
